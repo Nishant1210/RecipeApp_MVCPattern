@@ -1,0 +1,48 @@
+{
+    "categories" : [{
+        "categoryName" : "Baking",
+        "categoryList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        }
+        ]
+    }, {
+        "categoryName" : "Indian",
+        "categoryList" : [{
+            "id": "0004",
+            "name": "Paneer Butter Masala"
+        },
+        {
+            "id": "0005",
+            "name": "Paneer Tikka Masala"
+        },
+        {
+            "id": "0006",
+            "name": "Paneer Kadhai"
+        }
+        ]
+    }, {
+        "categoryName" : "Continental",
+        "categoryList" : [{
+            "id": "0007",
+            "name": "Ceaser Salad"
+        },
+        {
+            "id": "0008",
+            "name": "Sandwich"
+        },
+        {
+            "id": "0009",
+            "name": "Hot Dog"
+        }
+        ]
+    }]
+}

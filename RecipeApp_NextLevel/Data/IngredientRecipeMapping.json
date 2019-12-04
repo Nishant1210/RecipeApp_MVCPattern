@@ -1,0 +1,169 @@
+{
+    "ingredients" : [{
+        "ingredientName" : "Flour",
+        "ingredientDescription" : "Flour",
+        "recipeList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        }]
+    }, {
+        "ingredientName" : "Butter",
+        "ingredientDescription" : "Butter",
+        "recipeList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        },
+        {
+            "id": "0004",
+            "name": "Paneer Butter Masala"
+        },
+        {
+            "id": "0005",
+            "name": "Paneer Tikka Masala"
+        },
+        {
+            "id": "0006",
+            "name": "Paneer Kadhai"
+        }]
+    }, {
+        "ingredientName" : "Milk",
+        "ingredientDescription" : "Milk",
+        "recipeList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        }]
+    }, {
+        "ingredientName" : "Onion",
+        "ingredientDescription" : "Onion",
+        "recipeList" : [{
+            "id": "0004",
+            "name": "Paneer Butter Masala"
+        },
+        {
+            "id": "0005",
+            "name": "Paneer Tikka Masala"
+        },
+        {
+            "id": "0006",
+            "name": "Paneer Kadhai"
+        },
+        {
+            "id": "0008",
+            "name": "Sandwich"
+        }]
+    }, {
+        "ingredientName" : "Tomatoes",
+        "ingredientDescription" : "Tomatoes",
+        "recipeList" : [{
+            "id": "0004",
+            "name": "Paneer Butter Masala"
+        },
+        {
+            "id": "0005",
+            "name": "Paneer Tikka Masala"
+        },
+        {
+            "id": "0006",
+            "name": "Paneer Kadhai"
+        },
+        {
+            "id": "0008",
+            "name": "Sandwich"
+        }]
+    } , {
+        "ingredientName" : "Cocoa",
+        "ingredientDescription" : "Cocoa",
+        "recipeList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        }]
+    } , {
+        "ingredientName" : "Cheese",
+        "ingredientDescription" : "Cheese",
+        "recipeList" : [{
+            "id": "0007",
+            "name": "Ceaser Salad"
+        },
+        {
+            "id": "0008",
+            "name": "Sandwich"
+        },
+        {
+            "id": "0009",
+            "name": "Hot Dog"
+        }]
+    }, {
+        "ingredientName" : "Indian spices",
+        "ingredientDescription" : "Indian spices",
+        "recipeList" : [{
+            "id": "0005",
+            "name": "Paneer Tikka Masala"
+        },
+        {
+            "id": "0006",
+            "name": "Paneer Kadhai"
+        }]
+    }, {
+        "ingredientName" : "Baking soda",
+        "ingredientDescription" : "Baking soda",
+        "recipeList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        }]
+    }, {
+        "ingredientName" : "Baking powder",
+        "ingredientDescription" : "Baking powder",
+        "recipeList" : [{
+            "id": "0001",
+            "name": "Cakes"
+        },
+        {
+            "id": "0002",
+            "name": "CupCakes"
+        },
+        {
+            "id": "0003",
+            "name": "Pastries"
+        }]
+    }]
+}
